@@ -1,0 +1,75 @@
+h1{
+    background: red;
+    color: aliceblue;
+    width: 130px;
+    border: 2px solid black;
+}
+table{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+table tr th{
+    padding: 7px;
+    background-color: bisque;
+    color: blue;
+}
+table tr td{
+    color: brown;
+    background: palegreen;
+    padding: 7px 10px 0px 5px; 
+}
+form{
+    background-color: purple;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+form input{
+    margin: 10px;
+}
+form label{
+    margin: 10px;
+}
+form h3{
+    display: flex;
+    justify-content: center;
+}
+form button{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 50px;
+}
+form div{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+}
+img{
+    width: 300px;
+    margin: 20px;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    background-color: red;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 50px;
+    display: flex;
+    width: 70px;
+    justify-content: center;
+}
+.link{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
